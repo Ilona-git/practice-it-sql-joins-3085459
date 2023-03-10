@@ -7,7 +7,7 @@ sqlite3 AdventureWorks.db <<EOF
 .import csv/DimDate.csv DimDate
 .import csv/DimDepartmentGroup.csv DimDepartmentGroup
 .import csv/DimEmployee.csv DimEmployee
-.import csv/DimGeography.csv DimGeography
+.impo rt csv/DimGeography.csv DimGeography
 .import csv/DimOrganization.csv DimOrganization
 .import csv/DimProduct.csv DimProduct
 .import csv/DimProductCategory.csv DimProductCategory
